@@ -4,34 +4,33 @@
 
 > This is my first project in microverse. The main goal of this project is to master my previous abilities and skills i have gained from Microvese.
 
-
 ## Technologis used in this project
 
 - Major languages
-  * HTML
-  * CSS
+  - HTML
+  - CSS
 - Frameworks
-  * No frame works used
+  - No frame works used
 - Linters used
-  * Html and Css linters
+  - Html and Css linters
 
-## Guiding steps 
+## Guiding steps
+
 ** if you want to clone the copy of this project/work **
 
 ### Prerequisites
-  * install first git and gihthub applications in your machine
+
+- install first git and gihthub applications in your machine
 
 ### Usage
-   * type git clone (https://github.com/Tekhlay/Hello-world.git) in your local machine git cmd.
 
+- type git clone (https://github.com/Tekhlay/Hello-world.git) in your local machine git cmd.
 
 ## Authors
 
 👤 **Tekhlay**
 
 - GitHub: [@Tekhlay](https://github.com/Tekhlay)
-
-
 
 ## 🤝 Contributing
 
